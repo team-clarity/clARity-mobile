@@ -28,7 +28,7 @@ import secret from './secret.json';
  TODO: Insert your API key below
  */
 var sharedProps = {
-  apiKey: secret.viroAPI,
+  apiKey: secret.viroAPIKey,
 }
 
 // Sets the default scene you want for AR and VR
